@@ -1,0 +1,7 @@
+Total Numbe of  rows: 86
+Total Profilt and loss val 22564198
+Average is 262374.4
+The Diff value totaled at -8311.11
+Max profit : 1862002, Max profit date is Aug-16
+Max profit : -1825558, Max profit date is Feb-14
+​
